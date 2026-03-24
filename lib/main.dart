@@ -40,7 +40,7 @@ void main() {
       one.calculaterectangle();
       one.printthecalculated();
     } else {
-      print("**********programm endedd**************");
+      print("**********programm endedd");
       break;
     }
   }
